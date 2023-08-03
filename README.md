@@ -1,2 +1,9 @@
-# optimization
-Homeworks on discipline Optimization methods.
+## optimization
+
+Домашние задания по дисциплине "Методы оптимизации".
+
+#### Описание:
+
++ Homework_1 - методы градиентного спуска и метод Ньютона;
++ Homework_2 - продвинутые методы безусловной оптимизации;
++ Homework_3 - композитная оптимизация.
